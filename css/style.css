@@ -3,5 +3,11 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url(../img/fundo-de-paisagem-de-floresta-encantada_1308-75070.avif);
 }
-
+.text{
+    color:rgb(184, 235, 154)
+}
+h1{
+    color:rgb(183, 232, 154)
+}
